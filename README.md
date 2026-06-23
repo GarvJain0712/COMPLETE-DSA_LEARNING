@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2073-time-needed-to-buy-tickets) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2073-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
