@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0056-merge-intervals) |
 | [2073-time-needed-to-buy-tickets](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2073-time-needed-to-buy-tickets) |
 ## Queue
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0033-search-in-rotated-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
