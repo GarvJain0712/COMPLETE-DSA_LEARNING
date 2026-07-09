@@ -1,61 +1,49 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
 
-    void output(TreeNode* root,vector<vector<int>> &ans)
+    void output(TreeNode* root, vector<vector<int>>& ans)
     {
-        if(root==nullptr)
+        if(root == nullptr)
         {
-            return ;
+            return;
         }
-        queue<TreeNode*> q;
 
-        q.push(root);
+        queue<pair<TreeNode*, int>> q;
+
+        // {node, level}
+        q.push({root, 0});
 
         while(!q.empty())
         {
-            int levelsize=q.size();
-            vector<int> level;
+            TreeNode* curr = q.front().first;
+            int level = q.front().second;
 
-
-           for(int i=0;i<levelsize;i++)
-           {
-            TreeNode* curr=q.front();
             q.pop();
 
-            level.push_back(curr->val);
-
-            if(curr->left!=nullptr)
+            // First node encountered at a new level
+            if(level == ans.size())
             {
-                q.push(curr->left);
-            }
-            if(curr->right!=nullptr)
-            {
-                q.push(curr->right);
+                ans.push_back({});
             }
 
+            ans[level].push_back(curr->val);
 
+            if(curr->left != nullptr)
+            {
+                q.push({curr->left, level + 1});
+            }
 
-           }
-
-            ans.push_back(level);
+            if(curr->right != nullptr)
+            {
+                q.push({curr->right, level + 1});
+            }
         }
-
-        
     }
-    vector<vector<int>> levelOrder(TreeNode* root) {
-       vector<vector<int>> ans;
-       output(root,ans);
-       return ans; 
+
+    vector<vector<int>> levelOrder(TreeNode* root)
+    {
+        vector<vector<int>> ans;
+        output(root, ans);
+        return ans;
     }
 };
