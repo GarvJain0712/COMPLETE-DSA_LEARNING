@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0199-binary-tree-right-side-view) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0199-binary-tree-right-side-view) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0199-binary-tree-right-side-view) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0965-univalued-binary-tree) |
@@ -104,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0572-subtree-of-another-tree) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
