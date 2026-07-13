@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0078-subsets) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2073-time-needed-to-buy-tickets](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2073-time-needed-to-buy-tickets) |
 ## Queue
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
@@ -112,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
