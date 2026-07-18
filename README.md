@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0056-merge-intervals) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0704-binary-search) |
 ## Sorting
 |  |
