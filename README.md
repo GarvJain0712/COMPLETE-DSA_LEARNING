@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0965-univalued-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0965-univalued-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
 | ------- |
@@ -172,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0189-rotate-array) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
