@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0704-binary-search) |
+| [0918-maximum-sum-circular-subarray](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0918-maximum-sum-circular-subarray) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2073-time-needed-to-buy-tickets) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0918-maximum-sum-circular-subarray) |
 | [2073-time-needed-to-buy-tickets](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0918-maximum-sum-circular-subarray](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0646-maximum-length-of-pair-chain) |
+| [0918-maximum-sum-circular-subarray](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
 |  |
 | ------- |
@@ -190,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
