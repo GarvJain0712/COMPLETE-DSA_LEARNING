@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2073-time-needed-to-buy-tickets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2815-max-pair-sum-in-an-array](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2815-max-pair-sum-in-an-array) |
 ## Queue
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0560-subarray-sum-equals-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2815-max-pair-sum-in-an-array](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2815-max-pair-sum-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0724-find-pivot-index) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
