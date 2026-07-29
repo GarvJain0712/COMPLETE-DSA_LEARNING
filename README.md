@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0646-maximum-length-of-pair-chain) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0198-house-robber) |
 | [0646-maximum-length-of-pair-chain](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0646-maximum-length-of-pair-chain) |
