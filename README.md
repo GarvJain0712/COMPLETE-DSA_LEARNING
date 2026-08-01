@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0005-longest-palindromic-substring) |
 | [0409-longest-palindrome](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0409-longest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0572-subtree-of-another-tree) |
 | [0680-valid-palindrome-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0680-valid-palindrome-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0680-valid-palindrome-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0198-house-robber) |
