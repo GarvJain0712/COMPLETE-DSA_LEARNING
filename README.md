@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0646-maximum-length-of-pair-chain) |
+| [3536-maximum-product-of-two-digits](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0877-stone-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3536-maximum-product-of-two-digits) |
 ## Union-Find
 |  |
 | ------- |
