@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0785-is-graph-bipartite) |
 | [0965-univalued-binary-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0785-is-graph-bipartite) |
 | [0965-univalued-binary-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3310-remove-methods-from-project) |
 ## String Matching
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3310-remove-methods-from-project) |
 ## Monotonic Queue
 |  |
 | ------- |
