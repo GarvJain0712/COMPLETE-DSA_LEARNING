@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0735-asteroid-collision) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0005-longest-palindromic-substring) |
+| [0402-remove-k-digits](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0409-longest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0572-subtree-of-another-tree) |
 | [0647-palindromic-substrings](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0647-palindromic-substrings) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0739-daily-temperatures) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0646-maximum-length-of-pair-chain) |
