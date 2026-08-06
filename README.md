@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0877-stone-game) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0735-asteroid-collision) |
 | [2073-time-needed-to-buy-tickets](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2073-time-needed-to-buy-tickets) |
 | [3477-fruits-into-baskets-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
