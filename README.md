@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3536-maximum-product-of-two-digits) |
 ## Union-Find
 |  |
@@ -301,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
