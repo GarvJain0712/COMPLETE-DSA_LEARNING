@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3477-fruits-into-baskets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3731-find-missing-elements) |
 ## Queue
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1386-cinema-seat-allocation) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
 |  |
 | ------- |
