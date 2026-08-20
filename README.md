@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2073-time-needed-to-buy-tickets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2815-max-pair-sum-in-an-array](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2815-max-pair-sum-in-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3477-fruits-into-baskets-ii) |
 | [3731-find-missing-elements](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3731-find-missing-elements) |
 ## Queue
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2815-max-pair-sum-in-an-array](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2815-max-pair-sum-in-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
