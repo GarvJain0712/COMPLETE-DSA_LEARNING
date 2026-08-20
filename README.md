@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1386-cinema-seat-allocation](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1386-cinema-seat-allocation) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2073-time-needed-to-buy-tickets) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0078-subsets) |
+| [1386-cinema-seat-allocation](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1386-cinema-seat-allocation) |
 ## Tree
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0680-valid-palindrome-ii) |
+| [1386-cinema-seat-allocation](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1386-cinema-seat-allocation) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0560-subarray-sum-equals-k) |
+| [1386-cinema-seat-allocation](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2815-max-pair-sum-in-an-array](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2815-max-pair-sum-in-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3471-find-the-largest-almost-missing-integer) |
