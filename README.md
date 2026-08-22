@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1004-max-consecutive-ones-iii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [3477-fruits-into-baskets-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
