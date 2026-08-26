@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0918-maximum-sum-circular-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1386-cinema-seat-allocation](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2815-max-pair-sum-in-an-array](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2815-max-pair-sum-in-an-array) |
@@ -304,11 +306,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0209-minimum-size-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
