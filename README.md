@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0704-binary-search) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0785-is-graph-bipartite) |
 | [0965-univalued-binary-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0965-univalued-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0746-min-cost-climbing-stairs) |
@@ -384,5 +387,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0542-01-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
