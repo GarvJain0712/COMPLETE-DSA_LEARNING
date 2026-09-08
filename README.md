@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0115-distinct-subsequences) |
 | [0227-basic-calculator-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0409-longest-palindrome) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0486-predict-the-winner) |
