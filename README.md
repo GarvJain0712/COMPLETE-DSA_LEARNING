@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0227-basic-calculator-ii) |
 | [0486-predict-the-winner](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -407,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0542-01-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
