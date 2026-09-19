@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2029-stone-game-ix](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -412,4 +413,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
