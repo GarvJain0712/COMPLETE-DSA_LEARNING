@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1386-cinema-seat-allocation](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2029-stone-game-ix](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2029-stone-game-ix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1386-cinema-seat-allocation](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2815-max-pair-sum-in-an-array](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2815-max-pair-sum-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
