@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0572-subtree-of-another-tree) |
 | [0647-palindromic-substrings](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0680-valid-palindrome-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/0930-binary-subarrays-with-sum) |
 | [1386-cinema-seat-allocation](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2815-max-pair-sum-in-an-array](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/2815-max-pair-sum-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GarvJain0712/COMPLETE-DSA_LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
